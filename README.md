@@ -1,5 +1,5 @@
 # dotnet-nbomber-load-testing
-Demonstração de como podemos executar testes de carga com criação de múltiplos cenários usando o framework .NET NBomber.
+Demonstração de como executar testes de carga com criação de múltiplos cenários utilizando o framework .NET NBomber.
 
 # Como executar:
 - Clonar / baixar o repositório em seu workplace.
